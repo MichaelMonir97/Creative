@@ -392,6 +392,7 @@ flex: 1;
 
 #article .box img{
     max-width: 100%;
+    min-height: 247px;
 }
 
 #article .box .content, #article .box .info{
